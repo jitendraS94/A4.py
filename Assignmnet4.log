@@ -1,0 +1,374 @@
+INFO 2022-07-20 14:20:04,254 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 14:20:04,255 root  We are in Factorial_of_a_Number
+INFO 2022-07-20 14:20:06,297 root Enter number is 5 
+INFO 2022-07-20 14:21:26,102 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 14:21:26,103 root  We are in Factorial_of_a_Number
+INFO 2022-07-20 14:21:27,994 root Enter number is 5 
+INFO 2022-07-20 14:22:06,608 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 14:22:06,608 root  We are in Factorial_of_a_Number
+INFO 2022-07-20 14:22:08,152 root Enter number is 5 
+INFO 2022-07-20 14:22:08,152 root factorial of number is 1 
+INFO 2022-07-20 14:22:31,467 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 14:22:31,467 root  We are in Factorial_of_a_Number
+INFO 2022-07-20 14:22:33,325 root Enter number is 5 
+INFO 2022-07-20 14:22:33,325 root factorial of number is 1 
+INFO 2022-07-20 14:22:49,812 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 14:22:49,812 root  We are in Factorial_of_a_Number
+INFO 2022-07-20 14:22:52,891 root Enter number is 5 
+INFO 2022-07-20 14:22:52,891 root factorial of number is 1 
+INFO 2022-07-20 14:22:52,892 root factorial of number is 2 
+INFO 2022-07-20 14:22:52,892 root factorial of number is 6 
+INFO 2022-07-20 14:22:52,892 root factorial of number is 24 
+INFO 2022-07-20 14:25:31,797 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 14:25:31,797 root  We are in Factorial_of_a_Number
+INFO 2022-07-20 14:25:34,495 root Enter number is 52 
+INFO 2022-07-20 14:25:34,496 root factorial of number is 1 
+INFO 2022-07-20 14:26:01,687 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 14:26:01,687 root  We are in Factorial_of_a_Number
+INFO 2022-07-20 14:26:03,478 root Enter number is 5 
+INFO 2022-07-20 14:26:03,478 root factorial of number is 1 
+INFO 2022-07-20 14:27:13,395 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 14:27:13,395 root  We are in Factorial_of_a_Number
+INFO 2022-07-20 14:27:15,374 root Enter number is 5 
+INFO 2022-07-20 14:27:15,375 root factorial of number is 1 
+INFO 2022-07-20 14:27:15,375 root factorial of number is 2 
+INFO 2022-07-20 14:27:15,375 root factorial of number is 6 
+INFO 2022-07-20 14:27:15,375 root factorial of number is 24 
+INFO 2022-07-20 14:27:23,187 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 14:27:23,187 root  We are in Factorial_of_a_Number
+INFO 2022-07-20 14:27:25,287 root Enter number is 5 
+INFO 2022-07-20 14:27:25,287 root factorial of number is 1 
+INFO 2022-07-20 14:27:25,287 root factorial of number is 2 
+INFO 2022-07-20 14:27:25,288 root factorial of number is 6 
+INFO 2022-07-20 14:27:25,288 root factorial of number is 24 
+INFO 2022-07-20 14:27:25,288 root factorial of number is 120 
+INFO 2022-07-20 14:27:58,249 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 14:27:58,249 root  We are in Factorial_of_a_Number
+INFO 2022-07-20 14:28:00,147 root Enter number is 5 
+INFO 2022-07-20 14:28:00,147 root factorial of number is 1 
+INFO 2022-07-20 14:28:37,633 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 14:28:37,633 root  We are in Factorial_of_a_Number
+INFO 2022-07-20 14:28:39,736 root Enter number is 5 
+INFO 2022-07-20 14:28:39,736 root factorial of number is 1 
+INFO 2022-07-20 14:35:04,796 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 14:35:04,796 root  We are in Factorial_of_a_Number
+INFO 2022-07-20 14:35:07,076 root Enter number is 2 
+INFO 2022-07-20 14:35:07,077 root factorial of number is 1 
+INFO 2022-07-20 14:35:07,077 root factorial of number is 2 
+INFO 2022-07-20 14:35:07,077 root  Display multiplication Table
+INFO 2022-07-20 14:35:19,480 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 14:35:19,480 root  We are in Factorial_of_a_Number
+INFO 2022-07-20 14:35:20,873 root Enter number is 2 
+INFO 2022-07-20 14:35:20,873 root factorial of number is 1 
+INFO 2022-07-20 14:35:20,873 root factorial of number is 2 
+INFO 2022-07-20 14:35:20,873 root  Display multiplication Table
+INFO 2022-07-20 14:35:49,982 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 14:35:49,982 root  We are in Factorial_of_a_Number
+INFO 2022-07-20 14:35:51,981 root Enter number is 2 
+INFO 2022-07-20 14:35:51,981 root factorial of number is 1 
+INFO 2022-07-20 14:35:51,981 root factorial of number is 2 
+INFO 2022-07-20 14:35:51,982 root  Display multiplication Table
+INFO 2022-07-20 14:36:43,834 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 14:36:43,834 root  We are in Factorial_of_a_Number
+INFO 2022-07-20 14:36:45,602 root Enter number is 2 
+INFO 2022-07-20 14:36:45,603 root factorial of number is 1 
+INFO 2022-07-20 14:36:45,603 root factorial of number is 2 
+INFO 2022-07-20 14:36:45,603 root  Display multiplication Table
+INFO 2022-07-20 14:37:28,150 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 14:37:28,150 root  We are in Factorial_of_a_Number
+INFO 2022-07-20 14:37:30,223 root Enter number is 2 
+INFO 2022-07-20 14:37:30,223 root factorial of number is 1 
+INFO 2022-07-20 14:37:30,224 root factorial of number is 2 
+INFO 2022-07-20 14:37:30,224 root  Display multiplication Table
+INFO 2022-07-20 14:37:31,844 root Multiplication Table 2  *   2
+INFO 2022-07-20 14:37:31,844 root Multiplication Table 2  *   4
+INFO 2022-07-20 14:37:31,844 root Multiplication Table 2  *   6
+INFO 2022-07-20 14:37:31,845 root Multiplication Table 2  *   8
+INFO 2022-07-20 14:37:31,845 root Multiplication Table 2  *   10
+INFO 2022-07-20 14:37:31,845 root Multiplication Table 2  *   12
+INFO 2022-07-20 14:37:31,845 root Multiplication Table 2  *   14
+INFO 2022-07-20 14:37:31,845 root Multiplication Table 2  *   16
+INFO 2022-07-20 14:37:31,845 root Multiplication Table 2  *   18
+INFO 2022-07-20 14:37:31,845 root Multiplication Table 2  *   20
+INFO 2022-07-20 14:39:07,723 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 14:39:07,724 root  We are in Factorial_of_a_Number
+INFO 2022-07-20 14:39:10,714 root Enter number is 15 
+INFO 2022-07-20 14:39:10,714 root factorial of number is 1 
+INFO 2022-07-20 14:39:10,714 root factorial of number is 2 
+INFO 2022-07-20 14:39:10,714 root factorial of number is 6 
+INFO 2022-07-20 14:39:10,714 root factorial of number is 24 
+INFO 2022-07-20 14:39:10,714 root factorial of number is 120 
+INFO 2022-07-20 14:39:10,714 root factorial of number is 720 
+INFO 2022-07-20 14:39:10,714 root factorial of number is 5040 
+INFO 2022-07-20 14:39:10,714 root factorial of number is 40320 
+INFO 2022-07-20 14:39:10,715 root factorial of number is 362880 
+INFO 2022-07-20 14:39:10,715 root factorial of number is 3628800 
+INFO 2022-07-20 14:39:10,715 root factorial of number is 39916800 
+INFO 2022-07-20 14:39:10,715 root factorial of number is 479001600 
+INFO 2022-07-20 14:39:10,715 root factorial of number is 6227020800 
+INFO 2022-07-20 14:39:10,715 root factorial of number is 87178291200 
+INFO 2022-07-20 14:39:10,715 root factorial of number is 1307674368000 
+INFO 2022-07-20 14:39:10,715 root  Display multiplication Table
+INFO 2022-07-20 14:39:14,980 root Multiplication Table 2  *  1 2
+INFO 2022-07-20 14:39:14,981 root Multiplication Table 2  *  2 4
+INFO 2022-07-20 14:39:14,981 root Multiplication Table 2  *  3 6
+INFO 2022-07-20 14:39:14,981 root Multiplication Table 2  *  4 8
+INFO 2022-07-20 14:39:14,982 root Multiplication Table 2  *  5 10
+INFO 2022-07-20 14:39:14,982 root Multiplication Table 2  *  6 12
+INFO 2022-07-20 14:39:14,982 root Multiplication Table 2  *  7 14
+INFO 2022-07-20 14:39:14,982 root Multiplication Table 2  *  8 16
+INFO 2022-07-20 14:39:14,982 root Multiplication Table 2  *  9 18
+INFO 2022-07-20 14:39:14,982 root Multiplication Table 2  *  10 20
+INFO 2022-07-20 14:39:51,085 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 14:39:51,085 root  We are in Factorial_of_a_Number
+INFO 2022-07-20 14:39:58,102 root Enter number is 5 
+INFO 2022-07-20 14:39:58,103 root factorial of number is 1 
+INFO 2022-07-20 14:39:58,103 root factorial of number is 2 
+INFO 2022-07-20 14:39:58,103 root factorial of number is 6 
+INFO 2022-07-20 14:39:58,103 root factorial of number is 24 
+INFO 2022-07-20 14:39:58,103 root factorial of number is 120 
+INFO 2022-07-20 14:39:58,103 root  Display multiplication Table
+INFO 2022-07-20 14:40:01,518 root Multiplication Table 3  * 1 = 3
+INFO 2022-07-20 14:40:01,519 root Multiplication Table 3  * 2 = 6
+INFO 2022-07-20 14:40:01,519 root Multiplication Table 3  * 3 = 9
+INFO 2022-07-20 14:40:01,519 root Multiplication Table 3  * 4 = 12
+INFO 2022-07-20 14:40:01,519 root Multiplication Table 3  * 5 = 15
+INFO 2022-07-20 14:40:01,519 root Multiplication Table 3  * 6 = 18
+INFO 2022-07-20 14:40:01,520 root Multiplication Table 3  * 7 = 21
+INFO 2022-07-20 14:40:01,520 root Multiplication Table 3  * 8 = 24
+INFO 2022-07-20 14:40:01,520 root Multiplication Table 3  * 9 = 27
+INFO 2022-07-20 14:40:01,520 root Multiplication Table 3  * 10 = 30
+INFO 2022-07-20 14:40:15,767 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 14:40:15,767 root  We are in Factorial_of_a_Number
+INFO 2022-07-20 14:40:18,865 root Enter number is 5 
+INFO 2022-07-20 14:40:18,865 root factorial of number is 1 
+INFO 2022-07-20 14:40:18,865 root factorial of number is 2 
+INFO 2022-07-20 14:40:18,865 root factorial of number is 6 
+INFO 2022-07-20 14:40:18,865 root factorial of number is 24 
+INFO 2022-07-20 14:40:18,865 root factorial of number is 120 
+INFO 2022-07-20 14:40:18,865 root  Display multiplication Table
+INFO 2022-07-20 14:40:20,950 root Multiplication Table 2  * 1 = 2
+INFO 2022-07-20 14:40:30,569 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 14:40:30,569 root  We are in Factorial_of_a_Number
+INFO 2022-07-20 14:40:33,197 root Enter number is 5 
+INFO 2022-07-20 14:40:33,197 root factorial of number is 1 
+INFO 2022-07-20 14:40:33,197 root factorial of number is 2 
+INFO 2022-07-20 14:40:33,197 root factorial of number is 6 
+INFO 2022-07-20 14:40:33,198 root factorial of number is 24 
+INFO 2022-07-20 14:40:33,198 root factorial of number is 120 
+INFO 2022-07-20 14:40:33,198 root  Display multiplication Table
+INFO 2022-07-20 14:40:35,194 root Multiplication Table 2  * 1 = 2
+INFO 2022-07-20 14:40:53,456 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 14:40:53,456 root  We are in Factorial_of_a_Number
+INFO 2022-07-20 14:40:55,237 root Enter number is 2 
+INFO 2022-07-20 14:40:55,237 root factorial of number is 1 
+INFO 2022-07-20 14:40:55,237 root factorial of number is 2 
+INFO 2022-07-20 14:40:55,237 root  Display multiplication Table
+INFO 2022-07-20 14:40:57,307 root Multiplication Table 2  * 1 = 2
+INFO 2022-07-20 14:41:17,486 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 14:41:17,486 root  We are in Factorial_of_a_Number
+INFO 2022-07-20 14:41:19,094 root Enter number is 5 
+INFO 2022-07-20 14:41:19,094 root factorial of number is 1 
+INFO 2022-07-20 14:41:19,094 root factorial of number is 2 
+INFO 2022-07-20 14:41:19,095 root factorial of number is 6 
+INFO 2022-07-20 14:41:19,095 root factorial of number is 24 
+INFO 2022-07-20 14:41:19,095 root factorial of number is 120 
+INFO 2022-07-20 14:41:19,095 root  Display multiplication Table
+INFO 2022-07-20 14:41:19,802 root Multiplication Table 2  * 1 = 2
+INFO 2022-07-20 14:48:24,871 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 14:48:24,872 root  We are in Factorial_of_a_Number
+INFO 2022-07-20 14:48:29,064 root Enter number is 15 
+INFO 2022-07-20 14:48:29,064 root factorial of number is 1 
+INFO 2022-07-20 14:48:29,064 root factorial of number is 2 
+INFO 2022-07-20 14:48:29,064 root factorial of number is 6 
+INFO 2022-07-20 14:48:29,065 root factorial of number is 24 
+INFO 2022-07-20 14:48:29,065 root factorial of number is 120 
+INFO 2022-07-20 14:48:29,065 root factorial of number is 720 
+INFO 2022-07-20 14:48:29,065 root factorial of number is 5040 
+INFO 2022-07-20 14:48:29,065 root factorial of number is 40320 
+INFO 2022-07-20 14:48:29,065 root factorial of number is 362880 
+INFO 2022-07-20 14:48:29,065 root factorial of number is 3628800 
+INFO 2022-07-20 14:48:29,065 root factorial of number is 39916800 
+INFO 2022-07-20 14:48:29,065 root factorial of number is 479001600 
+INFO 2022-07-20 14:48:29,065 root factorial of number is 6227020800 
+INFO 2022-07-20 14:48:29,065 root factorial of number is 87178291200 
+INFO 2022-07-20 14:48:29,066 root factorial of number is 1307674368000 
+INFO 2022-07-20 14:48:29,066 root  Display multiplication Table
+INFO 2022-07-20 14:48:37,898 root Multiplication Table 2  * 1 = 2
+INFO 2022-07-20 14:48:37,898 root Multiplication Table 2  * 2 = 4
+INFO 2022-07-20 14:48:37,898 root Multiplication Table 2  * 3 = 6
+INFO 2022-07-20 14:48:37,898 root Multiplication Table 2  * 4 = 8
+INFO 2022-07-20 14:48:37,898 root Multiplication Table 2  * 5 = 10
+INFO 2022-07-20 14:48:37,899 root Multiplication Table 2  * 6 = 12
+INFO 2022-07-20 14:48:37,899 root Multiplication Table 2  * 7 = 14
+INFO 2022-07-20 14:48:37,899 root Multiplication Table 2  * 8 = 16
+INFO 2022-07-20 14:48:37,899 root Multiplication Table 2  * 9 = 18
+INFO 2022-07-20 14:48:37,899 root Multiplication Table 2  * 10 = 20
+INFO 2022-07-20 14:48:37,899 root Fibonacci_sequence function
+INFO 2022-07-20 14:49:50,266 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 14:49:50,266 root Fibonacci_sequence function
+INFO 2022-07-20 14:50:33,727 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 14:50:33,727 root Fibonacci_sequence function
+INFO 2022-07-20 14:50:57,329 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 14:50:57,330 root Fibonacci_sequence function
+INFO 2022-07-20 14:53:02,520 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 14:53:02,521 root Fibonacci_sequence function
+INFO 2022-07-20 14:53:20,192 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 14:53:20,192 root Fibonacci_sequence function
+INFO 2022-07-20 14:53:31,741 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 14:53:31,742 root Fibonacci_sequence function
+INFO 2022-07-20 14:55:30,094 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 14:55:30,094 root Fibonacci_sequence function
+INFO 2022-07-20 14:55:32,419 root Enter  number is 15
+INFO 2022-07-20 14:55:32,419 root Fibonacci_sequence is 2
+INFO 2022-07-20 14:55:32,419 root Fibonacci_sequence is 3
+INFO 2022-07-20 14:55:32,419 root Fibonacci_sequence is 5
+INFO 2022-07-20 14:55:32,419 root Fibonacci_sequence is 8
+INFO 2022-07-20 14:55:32,420 root Fibonacci_sequence is 13
+INFO 2022-07-20 14:55:32,420 root Fibonacci_sequence is 21
+INFO 2022-07-20 14:55:32,420 root Fibonacci_sequence is 34
+INFO 2022-07-20 14:55:32,420 root Fibonacci_sequence is 55
+INFO 2022-07-20 14:55:32,420 root Fibonacci_sequence is 89
+INFO 2022-07-20 14:55:32,420 root Fibonacci_sequence is 144
+INFO 2022-07-20 14:55:32,420 root Fibonacci_sequence is 233
+INFO 2022-07-20 14:55:32,420 root Fibonacci_sequence is 377
+INFO 2022-07-20 14:55:32,420 root Fibonacci_sequence is 610
+INFO 2022-07-20 14:56:13,347 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 14:56:13,347 root Fibonacci_sequence function
+INFO 2022-07-20 14:56:16,130 root Enter  number is 10
+ERROR 2022-07-20 14:56:16,130 root Logger._log() got an unexpected keyword argument 'end'
+Traceback (most recent call last):
+  File "F:\Assignment4\A4.py", line 45, in Fibonacci_sequence
+    logging.info("Fibonacci_sequence is %s $s",c ,end = " ")
+  File "C:\Users\DELL\anaconda3\envs\Assignment4\lib\logging\__init__.py", line 2138, in info
+    root.info(msg, *args, **kwargs)
+  File "C:\Users\DELL\anaconda3\envs\Assignment4\lib\logging\__init__.py", line 1477, in info
+    self._log(INFO, msg, args, **kwargs)
+TypeError: Logger._log() got an unexpected keyword argument 'end'
+INFO 2022-07-20 14:56:26,523 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 14:56:26,523 root Fibonacci_sequence function
+INFO 2022-07-20 14:56:31,909 root Enter  number is 10
+INFO 2022-07-20 14:56:31,910 root Fibonacci_sequence is 2 $s
+INFO 2022-07-20 14:56:31,910 root Fibonacci_sequence is 3 $s
+INFO 2022-07-20 14:56:31,910 root Fibonacci_sequence is 5 $s
+INFO 2022-07-20 14:56:31,910 root Fibonacci_sequence is 8 $s
+INFO 2022-07-20 14:56:31,910 root Fibonacci_sequence is 13 $s
+INFO 2022-07-20 14:56:31,910 root Fibonacci_sequence is 21 $s
+INFO 2022-07-20 14:56:31,910 root Fibonacci_sequence is 34 $s
+INFO 2022-07-20 14:56:31,910 root Fibonacci_sequence is 55 $s
+INFO 2022-07-20 15:29:49,279 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 15:29:49,293 root Armstrong_Number function
+INFO 2022-07-20 15:29:51,966 root  153 is a Armstrong Number 
+INFO 2022-07-20 15:32:01,137 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 15:32:01,137 root Armstrong_Number function
+INFO 2022-07-20 15:32:03,770 root  153 is a Armstrong Number 
+ERROR 2022-07-20 15:32:03,770 root 'str' object is not callable
+Traceback (most recent call last):
+  File "F:\Assignment4\A4.py", line 59, in Armstrong_Number
+    return a ("is a Armstrong Number")
+TypeError: 'str' object is not callable
+INFO 2022-07-20 15:32:50,623 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 15:32:50,623 root Armstrong_Number function
+INFO 2022-07-20 15:32:53,135 root 152 is a Not Armstrong Number
+INFO 2022-07-20 15:33:21,985 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 15:33:21,985 root Armstrong_Number function
+INFO 2022-07-20 15:33:24,206 root 153 is a Armstrong Number
+INFO 2022-07-20 16:01:17,049 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 16:01:30,406 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 16:01:36,476 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 16:01:36,476 root Sum_of_Natural_Numbers
+INFO 2022-07-20 16:01:38,614 root Enter number is
+INFO 2022-07-20 16:01:38,615 root Enter number is 15 
+INFO 2022-07-20 16:01:38,615 root Enter number is 29 
+INFO 2022-07-20 16:01:38,615 root Enter number is 42 
+INFO 2022-07-20 16:01:38,615 root Enter number is 54 
+INFO 2022-07-20 16:01:38,615 root Enter number is 65 
+INFO 2022-07-20 16:01:38,615 root Enter number is 75 
+INFO 2022-07-20 16:01:38,615 root Enter number is 84 
+INFO 2022-07-20 16:01:38,615 root Enter number is 92 
+INFO 2022-07-20 16:01:38,615 root Enter number is 99 
+INFO 2022-07-20 16:01:38,615 root Enter number is 105 
+INFO 2022-07-20 16:01:38,615 root Enter number is 110 
+INFO 2022-07-20 16:01:38,615 root Enter number is 114 
+INFO 2022-07-20 16:01:38,615 root Enter number is 117 
+INFO 2022-07-20 16:01:38,615 root Enter number is 119 
+INFO 2022-07-20 16:01:38,615 root Enter number is 120 
+INFO 2022-07-20 16:01:48,978 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 16:01:48,979 root Sum_of_Natural_Numbers
+INFO 2022-07-20 16:01:50,937 root Enter number is
+INFO 2022-07-20 16:01:50,938 root Enter number is 15 
+INFO 2022-07-20 16:01:50,938 root Enter number is 29 
+INFO 2022-07-20 16:01:50,938 root Enter number is 42 
+INFO 2022-07-20 16:01:50,938 root Enter number is 54 
+INFO 2022-07-20 16:01:50,938 root Enter number is 65 
+INFO 2022-07-20 16:01:50,938 root Enter number is 75 
+INFO 2022-07-20 16:01:50,938 root Enter number is 84 
+INFO 2022-07-20 16:01:50,938 root Enter number is 92 
+INFO 2022-07-20 16:01:50,938 root Enter number is 99 
+INFO 2022-07-20 16:01:50,938 root Enter number is 105 
+INFO 2022-07-20 16:01:50,938 root Enter number is 110 
+INFO 2022-07-20 16:01:50,938 root Enter number is 114 
+INFO 2022-07-20 16:01:50,938 root Enter number is 117 
+INFO 2022-07-20 16:01:50,938 root Enter number is 119 
+INFO 2022-07-20 16:01:50,938 root Enter number is 120 
+INFO 2022-07-20 16:02:06,664 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 16:02:06,664 root Sum_of_Natural_Numbers
+INFO 2022-07-20 16:02:08,990 root Enter number is
+INFO 2022-07-20 16:02:08,990 root Enter number is 120 
+INFO 2022-07-20 16:02:46,726 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 16:02:46,726 root Sum_of_Natural_Numbers
+INFO 2022-07-20 16:02:48,948 root Enter number is 15 
+INFO 2022-07-20 16:02:48,948 root Sum_of_Natural_Numbers 120 
+INFO 2022-07-20 16:11:23,810 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 16:11:23,810 root Sum_of_Natural_Numbers
+INFO 2022-07-20 16:11:33,643 root Enter number is 21 
+INFO 2022-07-20 16:11:33,643 root Sum_of_Natural_Numbers 231 
+INFO 2022-07-20 16:11:44,331 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 16:11:44,331 root Sum_of_Natural_Numbers
+INFO 2022-07-20 16:11:46,611 root Enter number is 20 
+INFO 2022-07-20 16:11:46,612 root Sum_of_Natural_Numbers 210 
+INFO 2022-07-20 16:11:46,612 root Find_Armstrong_Number_Interval
+INFO 2022-07-20 16:11:46,612 root Armstrong_Number_Interval 125
+INFO 2022-07-20 16:11:46,612 root Armstrong_Number_Interval 153
+INFO 2022-07-20 16:11:46,612 root Armstrong_Number_Interval 216
+INFO 2022-07-20 16:11:46,612 root Armstrong_Number_Interval 370
+INFO 2022-07-20 16:11:46,613 root Armstrong_Number_Interval 371
+INFO 2022-07-20 16:11:46,613 root Armstrong_Number_Interval 407
+INFO 2022-07-20 16:11:46,613 root Armstrong_Number_Interval 729
+INFO 2022-07-20 16:12:27,605 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 16:12:27,605 root Sum_of_Natural_Numbers
+INFO 2022-07-20 16:12:30,223 root Enter number is 10 
+INFO 2022-07-20 16:12:30,223 root Sum_of_Natural_Numbers 55 
+INFO 2022-07-20 16:12:30,223 root Find_Armstrong_Number_Interval
+INFO 2022-07-20 16:12:30,223 root Armstrong_Number_Interval 125
+INFO 2022-07-20 16:12:30,223 root Armstrong_Number_Interval 153
+INFO 2022-07-20 16:12:30,224 root Armstrong_Number_Interval 216
+INFO 2022-07-20 16:12:30,224 root Armstrong_Number_Interval 370
+INFO 2022-07-20 16:12:30,224 root Armstrong_Number_Interval 371
+INFO 2022-07-20 16:12:30,224 root Armstrong_Number_Interval 407
+INFO 2022-07-20 16:12:30,224 root Armstrong_Number_Interval 729
+INFO 2022-07-20 16:13:36,803 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 16:13:36,803 root Sum_of_Natural_Numbers
+INFO 2022-07-20 16:13:39,202 root Enter number is 10 
+INFO 2022-07-20 16:13:39,203 root Sum_of_Natural_Numbers 55 
+INFO 2022-07-20 16:13:39,203 root Find_Armstrong_Number_Interval
+INFO 2022-07-20 16:13:44,882 root Armstrong_Number_Interval 125
+INFO 2022-07-20 16:14:00,074 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 16:14:00,074 root Sum_of_Natural_Numbers
+INFO 2022-07-20 16:14:02,037 root Enter number is 10 
+INFO 2022-07-20 16:14:02,038 root Sum_of_Natural_Numbers 55 
+INFO 2022-07-20 16:14:02,038 root Find_Armstrong_Number_Interval
+INFO 2022-07-20 16:14:05,288 root Armstrong_Number_Interval 125
+INFO 2022-07-20 16:14:18,897 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 16:14:18,897 root Sum_of_Natural_Numbers
+INFO 2022-07-20 16:14:20,657 root Enter number is 10 
+INFO 2022-07-20 16:14:20,658 root Sum_of_Natural_Numbers 55 
+INFO 2022-07-20 16:14:20,658 root Find_Armstrong_Number_Interval
+INFO 2022-07-20 16:14:26,030 root Armstrong_Number_Interval 125
+INFO 2022-07-20 16:14:48,503 root  This  is Assignmnet4 funtion 
+INFO 2022-07-20 16:14:48,503 root Sum_of_Natural_Numbers
+INFO 2022-07-20 16:14:50,486 root Enter number is 10 
+INFO 2022-07-20 16:14:50,486 root Sum_of_Natural_Numbers 55 
+INFO 2022-07-20 16:14:50,486 root Find_Armstrong_Number_Interval
+INFO 2022-07-20 16:14:53,716 root Armstrong_Number_Interval 125
+INFO 2022-07-20 16:14:53,716 root Armstrong_Number_Interval 153
